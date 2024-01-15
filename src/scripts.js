@@ -1,3 +1,7 @@
 function hellow(){
-    alert('Hellow')
+    alert('Hellow');
+}
+
+function newf(){
+    alert();
 }
